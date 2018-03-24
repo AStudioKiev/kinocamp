@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Cuprum-Bold';
+  src: url('../fonts/Cuprum-Bold.eot');
+  src: url('../fonts/Cuprum-Bold.woff2') format('woff2'),
+       url('../fonts/Cuprum-Bold.woff') format('woff'),
+       url('../fonts/Cuprum-Bold.ttf') format('truetype'),
+       url('../fonts/Cuprum-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Cuprum-Regular';
+  src: url('../fonts/Cuprum-Regular.woff') format('woff'),
+       url('../fonts/Cuprum-Regular.ttf') format('truetype'),
+       url('../fonts/cuprum_regular.eot'),
+  	   url('../fonts/cuprum_regular.woff2') format('woff2'),
+       url('../fonts/cuprum_regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'cuprum_regular';
+  src: url('cuprum_regular.eot');
+  src: url('cuprum_regular.woff2') format('woff2'),
+       url('cuprum_regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+
+@font-face {
+  font-family: 'Intro-Bold';
+  src: url('../fonts/Intro-Bold.woff') format('woff'),
+       url('../fonts/Intro-Bold.ttf') format('truetype'),
+       url('../fonts/ofont.ru_Intro Bold.eot'),
+  	   url('../fonts/ofont.ru_Intro Bold.woff2') format('woff2'),
+       url('../fonts/ofont.ru_Intro Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'ofont.ru_Intro Bold';
+  src: url('ofont.ru_Intro Bold.eot');
+  src: url('ofont.ru_Intro Bold.woff2') format('woff2'),
+       url('ofont.ru_Intro Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ */
