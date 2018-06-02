@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /home/host1221966/xn--80aggjjhniw4j.xn--p1ai/htdocs/www/admin/.htpasswd
+Require valid-user

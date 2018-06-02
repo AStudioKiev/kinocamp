@@ -321,9 +321,3 @@ function initMap() {
 	});
 
 }
-
-// load teachers
-
-$(document).ready(function(){
-	console.log( "ready!" );
-});
